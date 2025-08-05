@@ -1,0 +1,35 @@
+{
+  "prompt": "Главный промт, который видит MidJourney",
+  "style": "Фирменный визуальный стиль или жанр (например: K-POP Anime Rock Ballade)",
+  "camera": {
+    "lens": "Тип объектива (например: 50mm f/1.4)",
+    "position": "Расположение камеры (например: close-up, high angle)",
+    "movement": "Если применимо: static, dolly-in, pan left, etc.",
+    "depth_of_field": "глубина резкости (например: shallow)",
+    "filters": "cinematic, film grain, bloom, etc."
+  },
+  "lighting": {
+    "type": "soft, diffused, ambient, backlight, etc.",
+    "color": "cool, warm, neutral",
+    "source": "natural window light, neon, candle, etc."
+  },
+  "characters": [
+    {
+      "name": "Имя персонажа (например: Яра)",
+      "description": "Подробное описание внешности и одежды",
+      "eyes": "серые глаза",
+      "accessories": ["браслет 'MIRACLE'"],
+      "emotion": "любопытство, ожидание"
+    }
+  ],
+  "background": {
+    "elements": ["плакат AERONYTE слева вверху", "пасхалка на зеркале: 'AERONYTE Believe'"],
+    "setting": "детская комната",
+    "style": "анимешный, реалистичный, утренний"
+  },
+  "aspect_ratio": "9:16",
+  "quality": "2k, ultra-detailed, photorealistic",
+  "reference_images": [
+    "URL на фото персонажа (например, yara_reference.jpg)"
+  ]
+}

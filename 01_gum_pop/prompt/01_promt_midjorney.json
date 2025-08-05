@@ -1,0 +1,29 @@
+{
+  "scene_id": "scene_01_miracle_girl",
+  "aspect_ratio": "9:16",
+  "prompt": "A digital photograph of a young girl with long straight brown hair and gray eyes, blowing a soft pink bubble gum in front of a round LED mirror. The girl wears a striped pastel shirt and a white bracelet with lettered beads spelling 'MIRACLE'. On the wall behind her, there is a glowing neon poster with the word 'AERONYTE' inside a red heart. On the right side of the mirror, a blue sticker says 'AERONYTE Believe' with a minimalistic crystal ball symbol. The room has a cozy, warm ambiance with soft evening lighting, pastel decor, and yellow star stickers on the pink wall. The girl's expression is calm and dreamy, capturing a magical, cinematic moment. The mirror reflects a feeling of wonder and belief.",
+  "style": {
+    "genre": "K-POP Anime Photorealism",
+    "visual_style": "high-end fashion photography + soft cinematic lighting",
+    "render_quality": "4K upscale, fine skin details, filmic grain",
+    "camera": "medium close-up, frontal angle, vertical framing"
+  },
+  "emotions": [
+    "dreamy",
+    "hopeful",
+    "magical",
+    "childlike wonder"
+  ],
+  "elements": {
+    "bracelet_text": "MIRACLE",
+    "poster_text": "AERONYTE",
+    "mirror_sticker": "AERONYTE Believe"
+  },
+  "metadata": {
+    "character": "Yara",
+    "age_range": "8–10",
+    "brand": "AERONYTE",
+    "project": "Жизнь — это чудо!",
+    "format": "vertical_story"
+  }
+}
