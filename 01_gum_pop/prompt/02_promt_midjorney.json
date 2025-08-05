@@ -1,0 +1,19 @@
+{
+  "scene_id": "scene_01_miracle_girl",
+  "prompt": "A highly detailed cinematic anime-style scene of a young girl with long straight brown hair and expressive gray eyes, gently blowing a soft pink bubble gum while gazing into her reflection in a round glowing LED mirror. Her eyes shimmer with quiet emotion and belief. She wears a pastel-striped shirt and a white beaded bracelet on her wrist, with letters spelling 'MIRACLE'. The walls are soft pink with scattered yellow star stickers. In the background, a glowing dark blue poster features a neon red heart and the handwritten word 'AERONYTE' — the band she loves. On the mirror’s side, a hidden sticker reads 'AERONYTE Believe' near a small glowing crystal ball, subtly symbolizing magic and hope. The lighting is warm and ambient, from a sunset glow coming through soft curtains. The composition is vertical, designed for a 9:16 cinematic Instagram/TikTok frame, with clear top-to-bottom visual flow and emotional focus.",
+  "style": {
+    "genre": "Anime Cinematic",
+    "color_palette": "pastel pink, warm peach, soft blue, neon red highlights",
+    "atmosphere": "intimate, reflective, magical realism",
+    "render_style": "Unreal Engine quality, cinematic cel-shaded anime, high dynamic range",
+    "lighting": "sunset light with soft glowing reflections, warm ambient tone",
+    "camera": "vertical portrait format, 50mm lens equivalent, soft focus on eyes, centered composition, shallow depth of field"
+  },
+  "metadata": {
+    "version": "v5.2",
+    "target_platform": "MidJourney / SyntxAI / Veo",
+    "output_format": "9:16 vertical high-res image, suitable for reels/stories",
+    "reference_photo": "yara_myau_reference.jpg",
+    "aspect_ratio": "9:16"
+  }
+}

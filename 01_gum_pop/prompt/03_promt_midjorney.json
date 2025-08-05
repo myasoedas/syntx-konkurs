@@ -1,0 +1,39 @@
+{
+  "scene_id": "scene_01_yara_miracle_room",
+  "prompt": "A realistic cinematic portrait of a young Slavic girl, around 9 years old, standing in her softly lit bedroom at golden hour. She has long, straight blonde hair, soft gray eyes, and a thoughtful, dreamy expression as she looks into a mirror. Her right wrist features a silver bracelet engraved with the word 'MIRACLE'. In the upper left corner of the room is a poster with the AERONYTE logo in glowing neon pink and violet colors. On the mirror’s surface, there is a handwritten message: 'AERONYTE Believe'. The environment exudes gentle evening ambiance with pastel reflections and cozy shadows. Light rays from the window create cinematic light patterns on her face. The atmosphere captures the fragile magic of a child's imagination and hope.",
+  "reference_photo": "yara_myau_reference.jpg",
+  "reference_usage": "Use as base for facial structure, expression, lighting tone, and hairstyle accuracy",
+  "camera": {
+    "position": "slightly below eye level",
+    "angle": "slight tilt up",
+    "lens": "50mm prime lens",
+    "depth_of_field": "shallow",
+    "focus": "sharp focus on eyes",
+    "focal_point": "golden ratio zone (eyes)",
+    "framing": "portrait centered in 9:16 vertical format"
+  },
+  "style": {
+    "render_type": "photorealistic with soft cinematic touch",
+    "quality": "ultra detailed",
+    "lighting": "natural golden hour with warm sunlight from side window",
+    "color_palette": ["#ffdbe1", "#f2c9ff", "#b3d7f7", "#ff3e57"],
+    "camera_settings": {
+      "iso": 400,
+      "aperture": "f1.8",
+      "shutter_speed": "1/125s",
+      "color_temperature": "5200K"
+    }
+  },
+  "narrative": {
+    "scene_order": 1,
+    "prev_scene": null,
+    "next_scene": "scene_02_flight_dream",
+    "mood_id": "introspective_magic",
+    "narrative_arc": "child imagines miracle while listening to AERONYTE"
+  },
+  "output": {
+    "aspect_ratio": "9:16",
+    "resolution": "2K",
+    "format": "vertical_poster"
+  }
+}
