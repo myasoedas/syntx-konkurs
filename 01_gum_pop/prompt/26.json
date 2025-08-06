@@ -1,0 +1,60 @@
+{
+  "goal": "Создать гиперреалистичную анимацию: стримерша надувает розовую жвачку, исчезает, превращаясь в планету Земля, которая лопается, и из неё вырывается вода, формирующая полусферу, после чего — неоновый логотип AERONYTE.",
+  "style": "hyperrealistic, cinematic, slow motion, physics-based animation, pink and blue neon, cyberpunk lighting",
+  "technical": {
+    "aspect_ratio": "16:9",
+    "duration_ms": 8000,
+    "resolution": "2K"
+  },
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 2500,
+      "description": "Крупный план стримерши 19 лет (серые глаза, русые волосы, светлая кожа). Она сидит перед камерой в розово-фиолетовом неоновом освещении и надувает большой розовый пузырь из жвачки. Смотрит прямо в камеру, выражение лица — сосредоточенность и азарт. Свет мягкий, неон отражается на коже и пузыре.",
+      "camera": "close-up, angle 5° left, slow zoom-in 15%",
+      "lighting": "soft neon pink and blue with ambient fog",
+      "motion": "bubble gradually inflates with physical stretch and reflections",
+      "sound_description": "звук надувающейся жвачки, фоновые twitch-уведомления (будут добавлены позже)"
+    },
+    {
+      "start_ms": 2500,
+      "end_ms": 3000,
+      "description": "В момент, когда пузырь достигает максимального размера, стримерша резко исчезает. На её месте мгновенно появляется гиперреалистичная планета Земля, вращающаяся вокруг своей оси. Освещение сменяется на голубой холодный тон.",
+      "camera": "sudden pull-out to frame full Earth in place of face",
+      "lighting": "cold space blue light, soft reflections from Earth surface",
+      "transition": "hard cut with short glitch flash"
+    },
+    {
+      "start_ms": 3000,
+      "end_ms": 4000,
+      "description": "Планета Земля мгновенно лопается, как резиновый шарик, с громким хлопком. Оболочка исчезает, а изнутри с огромной силой вырывается чистая вода вверх. Вода взлетает мощной струёй в замедленном движении.",
+      "camera": "slow-motion, mid zoom, upward tracking shot",
+      "lighting": "bright white-blue flashes on water particles",
+      "physics": "fluid simulation, realistic splash and surface tension"
+    },
+    {
+      "start_ms": 4000,
+      "end_ms": 6000,
+      "description": "Вода замирает в точке равновесия: формирует идеальную полусферу на тонкой ножке — водяной гриб. Камера вращается вокруг этой структуры на 15°, съёмка макроуровня. Освещение мерцает.",
+      "camera": "macro, orbit motion 15°, extreme detail",
+      "lighting": "reflected blue light, high contrast microreflections",
+      "physics": "surface energy equilibrium, physical gravity + inertia balance"
+    },
+    {
+      "start_ms": 6000,
+      "end_ms": 7500,
+      "description": "Полусфера теряет устойчивость, и вода начинает падать вниз в замедленном движении. Тысячи капель разлетаются в воздухе по физическим траекториям, каждая — с уникальным отражением и бликами.",
+      "camera": "slow pan, macro focus on droplets, smooth downward tracking",
+      "lighting": "cold neon lighting with reflections on every droplet",
+      "physics": "gravity-driven droplet simulation, real-world splash physics"
+    },
+    {
+      "start_ms": 7500,
+      "end_ms": 8000,
+      "description": "На затемнённом фоне появляется яркий неоновый логотип группы AERONYTE (как logo-AERONYTE.jpg) с розовым свечением и глитч-анимацией. Видео завершается этим кадром.",
+      "camera": "static shot, centered logo",
+      "lighting": "pure neon pink, glowing text effect",
+      "motion": "subtle glitch flicker, soft pulsing"
+    }
+  ]
+}
